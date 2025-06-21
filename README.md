@@ -12,6 +12,6 @@ This repository organizes each daily assignment into its own folder. Click a tas
 3. *[Image_Classification_Model](Image_Classification_Model)*
    - *Image_Classification_Model.ipynb*
 
-4. *[Task4_Dashboard_Design](Task4_Dashboard_Design)*
-   - *Dashboard_pic.png*
-   - *Task4_Sumary.pptx*
+4. *[Recommendation_System](Recommendation_System)*
+   - *ratings.csv*
+   - *Recommendation_System.ipynb*
