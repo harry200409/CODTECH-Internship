@@ -2,8 +2,8 @@
 
 This repository organizes each daily assignment into its own folder. Click a task to view its contents.
 
-1. *[Decision Tree Implementation](Decision Tree Implementation)*
-   - *Notebook:* Decision Tree Implementation.ipynb
+1. *[Decision_Tree_Implementation](Decision_Tree_Implementation)*
+   - *Decision_Tree_Implementation.ipynb*
 
 2. *[Task2_Data_Visualization](Task2_Data_Visualization)*
    - *Images:*`pic.png`
