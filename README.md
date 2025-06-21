@@ -5,8 +5,9 @@ This repository organizes each daily assignment into its own folder. Click a tas
 1. *[Decision_Tree_Implementation](Decision_Tree_Implementation)*
    - *Decision_Tree_Implementation.ipynb*
 
-2. *[Task2_Data_Visualization](Task2_Data_Visualization)*
-   - *Images:*`pic.png`
+2. *[Sentiment_Analysis_With_NLP](Sentiment_Analysis_With_NLP)*
+   - *Sentiment_Analysis_With_NLP.ipynb*
+   - *amazon_cells_labelled.txt*
 
 3. *[Image_Classification_Model](Image_Classification_Model)*
    - *Image_Classification_Model.ipynb*
