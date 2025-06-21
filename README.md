@@ -8,9 +8,8 @@ This repository organizes each daily assignment into its own folder. Click a tas
 2. *[Task2_Data_Visualization](Task2_Data_Visualization)*
    - *Images:*`pic.png`
 
-3. *[Task3_SQL_for_Data_Analysis](Task3_SQL_for_Data_Analysis)*
-   - *task3_queries.sql*
-   - *schema_and_data.sql*
+3. *[Image_Classification_Model](Image_Classification_Model)*
+   - *Image_Classification_Model.ipynb*
 
 4. *[Task4_Dashboard_Design](Task4_Dashboard_Design)*
    - *Dashboard_pic.png*
